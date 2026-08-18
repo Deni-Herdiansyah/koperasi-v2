@@ -179,10 +179,6 @@ php spark db:seed DemoSeeder
 Untuk pertanyaan, bug report, atau pembelian lisensi PRO:
 
 - 📧 Email: deniherdiansyah61@admin.sd.belajar.id
-- 💬 WhatsApp: +62 851-1767-91-51
+- 💬 WhatsApp: +62 851-1767-9151
 
 ---
-
-## 📄 Lisensi
-
-Aplikasi ini dirilis sebagai **freeware** — bebas digunakan untuk keperluan non-komersial.
